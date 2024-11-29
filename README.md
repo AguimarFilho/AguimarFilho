@@ -2,10 +2,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&duration=3000&pause=1000&color=9B9BFE&vCenter=true&width=440&lines=+Trabalhando+e+estudando...;24+horas+por+dia+%3A(" alt="Typing SVG" /></a>
 </div>
 
-<div>
-  <a href="https://github.com/P3nn4">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguimarfilho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguimarfilho&layout=compact&langs_count=16&theme=tokyonight"/>
+<div align="center">
+  <a href="https://github.com/leolopesribeiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguimarfilho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguimarfilho&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
